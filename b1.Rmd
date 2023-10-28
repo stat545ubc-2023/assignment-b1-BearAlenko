@@ -5,7 +5,7 @@ output: github_document
 Roxygen: list(markdown = TRUE)
 ---
 
-### Create Function (Summary Statistics of Continuous Variable by Categorical Variable with Data Type Checking)
+### Create Function (Summary Statistics of a Continuous Variable by a Categorical Variable with Data Type Checking)
 Let's first import the libraries.
 ```{r}
 suppressPackageStartupMessages(library(palmerpenguins))
